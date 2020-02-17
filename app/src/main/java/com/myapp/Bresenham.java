@@ -40,7 +40,11 @@ public class Bresenham implements SurfaceHolder.Callback {
         paint_green.setStyle(Paint.Style.FILL);
         paint_green.setColor(Color.GREEN);
 
-        canvas.drawText(rect.width()+"x"+rect.height(), rect.width()-49, rect.height()-7, paint_green);
+        canvas.drawText(
+                rect.width()+"x"+rect.height(),
+                rect.width()-49,
+                rect.height()-7,
+                paint_green);
 
         int xc = 101;
         int yc = 101;
