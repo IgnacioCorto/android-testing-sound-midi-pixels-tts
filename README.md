@@ -1,5 +1,4 @@
-# android-testing-sound-midi-pixels-tts
-
+# Testing Sound, MIDI, TTS, and Pixel Drawing
 
 ![App Screenshot](/app/src/main/assets/screenshot.png)
 
